@@ -9,7 +9,9 @@ Current progress:
 - [X] Screen reader 
 - [X] Screen data to normalized video matrix for training and running the ai 
 - [X] Input executer
-- [ ] Input reader (the biggest roadblock right now is that minecraft tabs mess with the way cursors work and this prevents most input reading methods from being able to see mouse movement properly)
+- [X] Keyboard Input Reader
+
+- [ ] Mouse Input reader (the biggest roadblock right now is that minecraft tabs mess with the way cursors work and this prevents most input reading methods from being able to see mouse movement properly)
 - [ ] Neural Network base (I have the math written down in a piece of paper that sits on my desk all day but i haven't fully set it up in code yet, but this should be an hour's work at most)
 - [ ] (OPTIONAL) Simplified texture pack to make the process easier on the ai
 - [ ] Training data (This will just be me playing the game with the input and screen reader running in the background so it's not a major time loss)
